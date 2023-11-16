@@ -1,0 +1,17 @@
+{
+  "name": "neml",
+  "version": "0.0.1",
+  "main": "server.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon server.js"
+  },
+  "description": "The official light-weight client for Neem",
+  "repository": "https://github.com/tamagoez/neml-web",
+  "author": "tamagoez",
+  "dependencies": {
+    "express": "^4.18.2",
+    "preact": "^10.19.2"
+  }
+}
